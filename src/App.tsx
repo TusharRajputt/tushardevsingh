@@ -29,7 +29,7 @@ function App() {
           </div>
           <div className="mt-8">
             <a 
-              href="/public/%PDF-1.5" 
+              href="/public/Tushar_Dev_Singh_Resume.pdf" 
               download 
               className="inline-flex items-center gap-2 bg-white text-blue-600 px-6 py-3 rounded-lg hover:bg-blue-50 transition-colors"
             >
